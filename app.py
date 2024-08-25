@@ -11,9 +11,9 @@ def process_data():
 
     response = {
         "is_success": True,
-        "user_id": "Mugdha_Thoke_09092003",  # Replace with your actual user ID
-        "email": "mugdhathoke0909@gmail.com",  # Replace with your email
-        "roll_number": "21BCT0194",  # Replace with your roll number
+        "user_id": "Mugdha_Thoke_09092003",  
+        "email": "mugdhathoke0909@gmail.com",  
+        "roll_number": "21BCT0194",  
         "numbers": numbers,
         "alphabets": alphabets,
         "highest_lowercase_alphabet": highest_lowercase[:1] if highest_lowercase else []
